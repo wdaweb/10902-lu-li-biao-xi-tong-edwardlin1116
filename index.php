@@ -112,6 +112,9 @@ include_once "base.php";
         <li>
           <a href="#portfolios">Portfolios</a>
         </li>
+        <li>
+          <a href="login.php">Login</a>
+        </li>
       </ul>
       <!-- Mobile Menu End -->
     </nav>

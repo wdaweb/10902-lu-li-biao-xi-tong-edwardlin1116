@@ -1,5 +1,5 @@
 <div style="width:99%; height:90%; margin:auto; overflow:auto; border:#666 1px solid;">
-    <p class="t cent botli">工作經歷</p>
+    <p class="t cent botli">求職條件</p>
     <form method="post" action="api/edit.php">
         <table width="100%">
             <tbody>
