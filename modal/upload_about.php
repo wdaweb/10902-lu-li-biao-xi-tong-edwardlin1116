@@ -1,6 +1,6 @@
 <h3 class="cent">更新標題區圖片</h3>
 <hr>
-<form action="api/upload.php" method="post" enctype="multipart/form-data">
+<form action="api/upload_about.php" method="post" enctype="multipart/form-data">
     <table style="width:70%;margin:auto">
         <tr>
             <td style="text-align:right">標題區圖片：</td>

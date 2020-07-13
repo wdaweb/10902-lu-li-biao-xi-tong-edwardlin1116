@@ -26,7 +26,7 @@
                     <td width="7%"><input type="checkbox" name="sh[]" value="<?=$row['id'];?>" <?=$isChk;?>> </td>
                     <td width="7%"><input type="checkbox" name="del[]" value="<?=$row['id'];?>"></td>
                     <td><input type="button" value="更新圖片"
-                            onclick="op('#cover','#cvr','modal/upload_title.php?id=<?=$row['id'];?>&table=<?=$table;?>')">
+                            onclick="op('#cover','#cvr','modal/upload_skill.php?id=<?=$row['id'];?>&table=<?=$table;?>')">
                     </td>
                     <input type="hidden" name="id[]" value="<?=$row['id'];?>">
                 </tr>
